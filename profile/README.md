@@ -1,4 +1,4 @@
-# `term-world`
+# `hello-whorl`
 
 This project aims to apply gamification-as-pedagogy in design and development of an approach to  
 introductory computer science (CS) courses in Python. The outcome, this persistent, immersive digital 
