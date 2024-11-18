@@ -4,7 +4,7 @@ This project aims to apply gamification-as-pedagogy in design and development of
 
 ## Acknowledgements
 
-This work has generously been funded by the Reboot Fundraiser organized by the Allegheny College Computer and Information Science Technical Advisory Board (TAB).
+This work has generously been funded by the `Reboot Fundraiser` organized by the Allegheny College Computer and Information Science Technical Advisory Board (TAB).
 
 Project `term-world`, which this work draws knowledge and inspiration from was funded by:
 
